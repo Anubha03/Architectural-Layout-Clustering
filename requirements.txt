@@ -1,0 +1,6 @@
+# Dependencies inferred from the archived notebook; original environment was not supplied.
+numpy
+opencv-python
+scikit-learn
+matplotlib
+jupyterlab
